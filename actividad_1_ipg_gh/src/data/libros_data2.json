@@ -1,0 +1,878 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1925,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "rYJsDwAAQBAJ",
+      "etag": "BvXna+dkr58",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rYJsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Fifty Places to Surf Before You Die",
+        "subtitle": "Surfing Experts Share the World's Greatest Destinations",
+        "authors": [
+          "Chris Santella"
+        ],
+        "publisher": "ABRAMS",
+        "publishedDate": "2019-04-09",
+        "description": "Covering famed surf spots all over the world, this unique full-color gift book and travel guide invites you to discover such unexpected gems as the Amazon and the Gulf of Alaska. From the frigid waters off Iceland’s Reykjanes Peninsula to Nazaré, Portugal, where in 2013 Garrett McNamara broke a world record for surfing the tallest wave (78 feet!), highlights also include: North Shore, Oahu, Hawaii Gold Coast, Australia Malibu, California Faroe Islands, Denmark Cocoa Beach, Florida Hossegor, France Grajagan, Indonesia Montauk, New York Thurso, Scotland Jeffreys Bay, South Africa And dozens more! Fifty Places to Surf takes readers on a wide-roving adventure, divulging the details that make each venue unique—and plenty of tips for those who aspire to surf there. Author Chris Santella writes in his introduction, “Surfing means different things to different people. For some it might mean longboarding mellow chest-high waves in board shorts, followed by a great sushi dinner; for others it may mean donning a six-millimeter wetsuit to brave near-freezing waters and triple overheads. Fifty Places to Surf Before You Die attempts to capture the spectrum of surfing experiences—from beginner-friendly to downright death-defying.” Featuring interviews with seasoned surfing experts such as pro surfer Joel Parkinson and Billabong executive Shannan North, Fifty Places to Surf Before You Die is an essential travel companion for surfers of all levels who are looking to catch that perfect wave.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781683355007"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1683355008"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 476,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rYJsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rYJsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rYJsDwAAQBAJ&printsec=frontcover&dq=surf&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rYJsDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rYJsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rYJsDwAAQBAJ&rdid=book-rYJsDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fifty_Places_to_Surf_Before_You_Die-sample-epub.acsm?id=rYJsDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fifty_Places_to_Surf_Before_You_Die-sample-pdf.acsm?id=rYJsDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rYJsDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fifty Places to Surf Before You Die attempts to capture the spectrum of surfing experiences—from beginner-friendly to downright death-defying.” Featuring interviews with seasoned surfing experts such as pro surfer Joel Parkinson and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-DWQSYRx4MUC",
+      "etag": "LuF4B76wKDo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-DWQSYRx4MUC",
+      "volumeInfo": {
+        "title": "The Encyclopedia of Surfing",
+        "authors": [
+          "Matt Warshaw"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2005",
+        "description": "With 1,500 alphabetical entries and 300 illustrations, this resource is a comprehensive review of the people, places, events, equipment, vernacular, and lively history of this fascinating sport.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0156032511"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780156032513"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 820,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-DWQSYRx4MUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-DWQSYRx4MUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-DWQSYRx4MUC&printsec=frontcover&dq=surf&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=-DWQSYRx4MUC&dq=surf&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Encyclopedia_of_Surfing.html?hl=&id=-DWQSYRx4MUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Encyclopedia_of_Surfing-sample-pdf.acsm?id=-DWQSYRx4MUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-DWQSYRx4MUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;The definitive work on surfing&quot; --&quot;San Francisco Chronicle &quot;Entertaining, informative, unbeatable-if it&#39;s about surfing, it&#39;s in here."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eBvMFuHle2kC",
+      "etag": "tJV+nOVq/nU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eBvMFuHle2kC",
+      "volumeInfo": {
+        "title": "Hollywood Surf and Beach Movies",
+        "subtitle": "The First Wave, 1959-1969",
+        "authors": [
+          "Thomas Lisanti"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2015-05-07",
+        "description": "Surfers loathed them, teenagers flocked to them, critics dismissed them, producers banked on them--surf and beach movies. For a short time in the 1960s they were extremely popular with younger audiences--mainly because of the shirtless surfer boys and bikini-clad beach girls, the musical performers, and the wild surfing footage. This lavishly illustrated filmography details 32 sizzling fun-in-the-sun teenage epics from Gidget to the Beach Party movies with Frankie and Annette to The Sweet Ride plus a few offshoots in the snow!) Entries include credits, plot synopses, memorable lines, reviews and awards, and commentary from such as Aron Kincaid of The Girls on the Beach, Susan Hart of The Ghost in the Invisible Bikini, Peter Brown of Ride the Wild Surf, Chris Noel of Beach Ball, and Ed Garner of Beach Blanket Bingo. Biographies of actors and leading actresses who made their marks in the genre are included.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476601427"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476601429"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 457,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eBvMFuHle2kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eBvMFuHle2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=eBvMFuHle2kC&printsec=frontcover&dq=surf&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eBvMFuHle2kC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eBvMFuHle2kC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 19.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eBvMFuHle2kC&rdid=book-eBvMFuHle2kC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 19990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Hollywood_Surf_and_Beach_Movies-sample-epub.acsm?id=eBvMFuHle2kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Hollywood_Surf_and_Beach_Movies-sample-pdf.acsm?id=eBvMFuHle2kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eBvMFuHle2kC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Surfers loathed them, teenagers flocked to them, critics dismissed them, producers banked on them--surf and beach movies."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sX_1DwAAQBAJ",
+      "etag": "DLQLOGKF+Co",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sX_1DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Surf",
+        "subtitle": "100 Greatest Waves",
+        "authors": [
+          "Casey Koteen",
+          "The Editors of TransWorld Surf"
+        ],
+        "publisher": "Weldon Owen International",
+        "publishedDate": "2013-10-29",
+        "description": "The editors of TransWorld SURF share inside information and jaw-dropping photography in this comprehensive guide to the one-hundred best surf spots on Earth. The editors of TransWorld SURF magazine have been all over—from Australia and California to emerging destinations in West Africa, Japan, Norway and beyond—searching for the best beaches and waves with some of the world’s top surfers. This book collects amazing photos of the one-hundred top spots around the world, along with the pro tips and travel details you need to go there yourself. SURF: 100 Greatest Waves takes you from classic locales, such as Mexico, Fiji, and Thailand, to inside secret spots like Iceland, India, and Wales. Whether you’re a globetrotting barrelhunter chasing the perfect wave, or a weekend wave-rider dreaming of the perfect vacation, let SURF: 100 Greatest Waves take you there.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781681886992"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1681886995"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sX_1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sX_1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sX_1DwAAQBAJ&printsec=frontcover&dq=surf&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sX_1DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sX_1DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=sX_1DwAAQBAJ&rdid=book-sX_1DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Surf-sample-epub.acsm?id=sX_1DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Surf-sample-pdf.acsm?id=sX_1DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sX_1DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The editors of TransWorld SURF share inside information and jaw-dropping photography in this comprehensive guide to the one-hundred best surf spots on Earth."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lAPnBAAAQBAJ",
+      "etag": "aotoWpgrB2A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lAPnBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Surf Is Where You Find It",
+        "authors": [
+          "Gerry Lopez"
+        ],
+        "publisher": "Patagonia",
+        "publishedDate": "2013-10-06",
+        "description": "Written by one of the most revered surfers of his generation, Gerry Lopez's Surf Is Where You Find It is a collection of stories about a lifetime of surfing. But more than that, it is a collection of stories about the lessons learned from surfing. It presents 38 stories about those who have been influential in the sport — surfing anytime, anywhere, and in any way. Lopez, an innovator in stand-up-paddle (one of the fastest growing water sports in the world), now shares his stories about pioneering that sport. Conveyed in Gerry's unique voice, augmented with photos from his personal collection, this book is a classic for surf enthusiasts everywhere.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781938340048"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1938340043"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 317,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lAPnBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lAPnBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lAPnBAAAQBAJ&printsec=frontcover&dq=surf&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lAPnBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lAPnBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.96,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=lAPnBAAAQBAJ&rdid=book-lAPnBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7960000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Surf_Is_Where_You_Find_It-sample-epub.acsm?id=lAPnBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Surf_Is_Where_You_Find_It-sample-pdf.acsm?id=lAPnBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lAPnBAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Conveyed in Gerry&#39;s unique voice, augmented with photos from his personal collection, this book is a classic for surf enthusiasts everywhere."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DyPahOeW4Y0C",
+      "etag": "kOdcE3m+gbM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DyPahOeW4Y0C",
+      "volumeInfo": {
+        "title": "The WetSand WaveCast Guide to Surf Forecasting",
+        "subtitle": "A Simple Approach to Planning the Perfect Sessions",
+        "authors": [
+          "Nathan Todd Cool"
+        ],
+        "publisher": "iUniverse",
+        "publishedDate": "2003",
+        "description": "Shows how you can make surf forecasts with simple calculations and free, publicly available data.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780595303656"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "059530365X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 166,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DyPahOeW4Y0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DyPahOeW4Y0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DyPahOeW4Y0C&printsec=frontcover&dq=surf&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DyPahOeW4Y0C&dq=surf&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_WetSand_WaveCast_Guide_to_Surf_Forec.html?hl=&id=DyPahOeW4Y0C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_WetSand_WaveCast_Guide_to_Surf_Forec-sample-epub.acsm?id=DyPahOeW4Y0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_WetSand_WaveCast_Guide_to_Surf_Forec-sample-pdf.acsm?id=DyPahOeW4Y0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DyPahOeW4Y0C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Shows how you can make surf forecasts with simple calculations and free, publicly available data."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aFL2nb0SE3kC",
+      "etag": "6h0QKZdlA5M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aFL2nb0SE3kC",
+      "volumeInfo": {
+        "title": "Surfer Magazine's Guide to Northern and Central California Surf Spots",
+        "subtitle": "Del Norte - Humboldt - Mendocino - Sonoma - Marin - San Francisco - San Mateo - Santa Cruz - Monterey - San Luis Obispo",
+        "authors": [
+          "The Editors of Surfer Magazine"
+        ],
+        "publisher": "Chronicle Books",
+        "publishedDate": "2006-05-04",
+        "description": "Surfer Magazine offers the ultimate guide to catching the best waves from the redwood shores of the Oregon-California border to the wind- blasted coastal plains of San Luis Obispo County. For more than 250 spots, this sturdy manual sporting a water-resistant covers delivers a clear assessment of wave quality, prime wave conditions, and local hazards (both natural and manmade). Informative text answers the burning questions that surfers often pose: What tide? What wind? What swell? How are the locals? Are they worse than the sharksor the traffic? With helpful maps, photos, and directions, this Surfer's Guide is sure to become the gold standard for anyone looking to score the perfect wave.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0811849988"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780811849982"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.9.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aFL2nb0SE3kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aFL2nb0SE3kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aFL2nb0SE3kC&printsec=frontcover&dq=surf&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aFL2nb0SE3kC&dq=surf&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Surfer_Magazine_s_Guide_to_Northern_and.html?hl=&id=aFL2nb0SE3kC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Surfer_Magazine_s_Guide_to_Northern_and-sample-pdf.acsm?id=aFL2nb0SE3kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aFL2nb0SE3kC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What wind? What swell? How are the locals? Are they worse than the sharksor the traffic? With helpful maps, photos, and directions, this Surfer&#39;s Guide is sure to become the gold standard for anyone looking to score the perfect wave."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gNv-ge5rOOUC",
+      "etag": "ebjPKCU8IXU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gNv-ge5rOOUC",
+      "volumeInfo": {
+        "title": "Have Board, Will Travel",
+        "subtitle": "The Definitive History of Surf, Skate, and Snow",
+        "authors": [
+          "Jamie Brisick"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2011-04-05",
+        "description": "Whether on water, pavement, or fluffy white powder, the history of surfing,skateboarding, and snowboarding is a landscape filled with rugged personalities, exotic locales, wild innovation, and most of all the united dream of becoming one with the oceans, streets, and mountains. Have Board, Will Travel shows the intricate connection between all three sports. Their histories act as the grand foundation, the images serve as divine inspiration, and each page is filled with enough side-stanced glory to summon even the laziest couch potato to pick up a board and ride.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062032133"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0062032135"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 212,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gNv-ge5rOOUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gNv-ge5rOOUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gNv-ge5rOOUC&printsec=frontcover&dq=surf&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gNv-ge5rOOUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gNv-ge5rOOUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gNv-ge5rOOUC&rdid=book-gNv-ge5rOOUC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Have_Board_Will_Travel-sample-epub.acsm?id=gNv-ge5rOOUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gNv-ge5rOOUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Have Board, Will Travel shows the intricate connection between all three sports."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j6qiAgAAQBAJ",
+      "etag": "ZLhUUcGPUCE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j6qiAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Oregon Surfing",
+        "subtitle": "Central Coast",
+        "authors": [
+          "Sandy Blackman"
+        ],
+        "publisher": "Arcadia Publishing",
+        "publishedDate": "2014",
+        "description": "Surfing came to the central Oregon coast in the early 1960s. Mostly young boys from Newport and the Agate Beach area took to the waves, without wetsuits or leashes, and taught themselves how to surf in the forbidding cold waters. Eventually forming the Agate Beach Surf Club, they discovered other surfing communities along the Oregon coast. With no modern-day technology to help them, they traveled the rugged Oregon coast in search of good and accessible surf spots. Fifty years later, the surfing culture has grown and evolved, including both genders, kite, wind, stand-up-paddle, and big wave surfing. What hasn't changed is the unique and challenging environment of the Oregon coast. Geography, the weather, and the cold water still remain the biggest challenges. In the face of all this, the surfing community grows and continues to prosper.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781467131018"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1467131016"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j6qiAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j6qiAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=j6qiAgAAQBAJ&printsec=frontcover&dq=surf&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=j6qiAgAAQBAJ&dq=surf&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Oregon_Surfing.html?hl=&id=j6qiAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Oregon_Surfing-sample-pdf.acsm?id=j6qiAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j6qiAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Surfing came to the central Oregon coast in the early 1960s."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aclvDwAAQBAJ",
+      "etag": "u6NCXvD8BPk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aclvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Surf's Up",
+        "subtitle": "The Girl's Guide to Surfing",
+        "authors": [
+          "Louise Southerden"
+        ],
+        "publisher": "Ballantine Books",
+        "publishedDate": "2005-03-01",
+        "description": "CATCH THE WAVE Have you always thought surfing looks like so much fun but lacked the confidence to try it? Do you dream of having sun-bleached hair and surf-toned arms? Maybe you’d like to join those surfers you watch from the comfort of your beach towel? With women’s surfing booming as never before, now is the perfect time to grab a board and get out there! If you’re a girl who longs to mix it up with the boys in the surf, carve graceful lines across the face of a wave, and feel the exhilaration of surfing, this book is for you. Surf’s Up has it all, including • what to look for when buying a surfboard • how to find the right waves • how to paddle out, catch waves, stand up, and turn your board • a colorful history of women’s surfing, from Gidget to Beachley • where to find North America’s dream surfing spots Writing with the passion that comes from living the surfing life for more than fifteen years, Louise Southerden brings her love of surfing to every page, offering a glimpse of surfing subculture, surf lingo, the rules of the waves, and helpful tips from other surfer girls who have survived the learning-to-surf journey. Surf’s Up is encouraging and empowering: a book no surfer girl should be without!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780345476616"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0345476611"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+          "Sports & Recreation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aclvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aclvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=aclvDwAAQBAJ&printsec=frontcover&dq=surf&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=aclvDwAAQBAJ&dq=surf&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Surf_s_Up.html?hl=&id=aclvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aclvDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you’re a girl who longs to mix it up with the boys in the surf, carve graceful lines across the face of a wave, and feel the exhilaration of surfing, this book is for you."
+      }
+    }
+  ]
+}

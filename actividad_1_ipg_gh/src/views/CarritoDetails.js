@@ -3,14 +3,18 @@ import {Link} from "react-router-dom";
 import {RelatosContext} from '../context/RelatosContext';
 import {Libro} from '../components/Libro';
 import {useNavigate} from "react-router";
+import {useRemoveFromCarrito} from "../hooks/useRemoveFromCarrito";
 
 
 export const CarritoDetails = () => {
 	const {catalogo,cH} = useContext(RelatosContext);
 	const carrito = cH.carrito;
+	const setCarrito = cH.setCarrito;
 	const addLibro = cH.addLibro;
-	const removeLibro = cH.removeLibro;
+	//const removeLibro = cH.removeLibro;
 
+	
+	
 	const navigate = useNavigate();
 	
 	console.log("CarritoDetails: carrito: ", carrito)
@@ -24,6 +28,12 @@ export const CarritoDetails = () => {
 
 		// pasar al pago con el coste del libro seleccionado
 		navigate("/libros/compra/pago/${libro.id}");
+	};
+
+	const remLibro = (libro) => {
+		
+				//removeLibro(libro);
+			
 	};
 
 	if (carrito.length === 0){ 
@@ -55,10 +65,8 @@ export const CarritoDetails = () => {
                                 key={index}
                                 libro={libro}
                             />
-                            <button className ="compra-libro" onClick = {comprarLibro({libro})}>Portarme este tomo</button>
               							<br />
-            								<button className = "compra-quita" onClick = {()=> removeLibro({libro})}>Desecha este tomo</button>
-            
+            								<button className ="compra-quite" onClick = {remLibro(libro)}>Quita el libro</button>
                             <hr />
                             </>
                         ))
@@ -66,7 +74,7 @@ export const CarritoDetails = () => {
                             
 
 				
-				}
+				
 	      <button className ="compra-todo" onClick = {comprarTodoelCarro}>Portalos todo</button>
 	    </div>
 		);

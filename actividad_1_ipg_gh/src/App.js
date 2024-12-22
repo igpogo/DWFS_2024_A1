@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import GlobalRouter from "./routes/GlobalRouter";
 import {RelatosContext} from './context/RelatosContext';
 import {useRetrieveCatalogo} from './hooks/useRetrieveCatalogo';
-import {CarritoHolder} from './hooks/CarritoHolder';
+import {useCarritoHolder} from './hooks/useCarritoHolder';
 import {Footer} from "./components/Footer";
 import logo from './logo.svg';
 import './App.css';
@@ -13,7 +13,7 @@ function App() {
 
   const catalogo = libros_data.items;
   
-  const cH = CarritoHolder();
+  const cH = useCarritoHolder();
 
   console.log("APP: catalogo: ", catalogo);
 

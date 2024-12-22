@@ -24,11 +24,17 @@ export const PagoFinal = () => {
 			cuenta = libro.saleInfo.listPrice.amount;
 		}
 	}else{
-		
+		console.log("PagoFinal: carrito:", carrito);
 		carrito.map((libro,i) => {
-			console.log("PagoFinal: libro:", libro.libro);
-			const amount = libro.libro.saleInfo.listPrice.amount || 0;
+			
+			console.log("PagoFinal: libro:", libro);
+			const {saleInfo} = libro || {};
+			const {listPrice} = saleInfo || {};
+			let {amount} = listPrice || 0;
+			amount = (amount === undefined) ? 0 : amount;
+			console.log("PagoFinal: amount: ",amount);
 			cuenta = cuenta + amount;
+			console.log("PagoFinal: cuenta: ",cuenta);
 		});
 	}
 	

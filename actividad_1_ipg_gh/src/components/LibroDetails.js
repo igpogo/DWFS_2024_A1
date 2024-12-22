@@ -1,6 +1,6 @@
 import React, {useContext} from 'react';
 import {RelatosContext} from '../context/RelatosContext';
-import {CarritoHolder} from '../hooks/CarritoHolder';
+import {useCarritoHolder} from '../hooks/useCarritoHolder';
 import {Link} from "react-router-dom";
 import {useParams} from "react-router-dom";
 

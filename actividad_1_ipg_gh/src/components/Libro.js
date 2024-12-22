@@ -1,7 +1,7 @@
 import React, {useContext} from 'react';
 import {Link} from "react-router-dom";
 import {RelatosContext} from '../context/RelatosContext';
-import {CarritoHolder} from '../hooks/CarritoHolder';
+import {useCarritoHolder} from '../hooks/useCarritoHolder';
 
 
 export const Libro = ({libro}) => {
@@ -49,14 +49,11 @@ export const Libro = ({libro}) => {
     }
   }
   
-  const updateCarrito = (libro) => {
-		console.log("Libro: updateCarrito: libro:",libro);
-		addLibro({libro:libro});
-		console.log("Libro: updateCarrito: carrito:",carrito);
-	}
+  
 
 	return (
 		<div className = "libro-card">
+		<br />
 			<h3 className = "card-titulo">
 			Titulo: {(title || "Sin titulo")}
 			</h3>
@@ -67,7 +64,7 @@ export const Libro = ({libro}) => {
 			<Link to={id ? `/libro/${id}` : 'libro/NotFound'}>
                 <button>Descubre los menudos detalles</button>
             </Link>
-      <	button className = "card-carrito_button" onClick={() => updateCarrito(libro) }> Jala el libro a mi carruaje</button>
+      
       <Link to={id ? `/libros/compra/pago/${id}` : 'libro/NotFound'}>
                 <button>Me llevo este tomo</button>
             </Link>

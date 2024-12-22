@@ -4,13 +4,23 @@ import {RelatosContext} from "../context/RelatosContext";
 import {useRetrieveCatalogo} from "../hooks/useRetrieveCatalogo" 
 import {Libro} from '../components/Libro';
 
-import {CarritoHolder} from '../hooks/CarritoHolder';
+import {useCarritoHolder} from '../hooks/useCarritoHolder';
+
 
 
 export const Libros = () => {
 
-	const {catalogo, carrito} = useContext(RelatosContext); 
+
+	const {catalogo, cH} = useContext(RelatosContext); 
+	const addLibro = cH.addLibro;
+	const carrito = cH.carrito;
 	console.log("ESTE LOG_> ",catalogo);
+
+	const updateCarrito = (libro) => {
+		console.log("Libro: updateCarrito: libro:",libro);
+		addLibro({libro:libro});
+		console.log("Libro: updateCarrito: carrito:",carrito);
+}
 
 	return(
 			<div className = "libros-encabezado">
@@ -20,11 +30,15 @@ export const Libros = () => {
 
 				{
 					catalogo.map((libro, index) => (
+					<>
                             <Libro
                                 key={index}
                                 libro={libro}
                             />
+                            <	button className = "card-carrito_button" onClick={() => updateCarrito(libro) }> Jala el libro a mi carruaje</button>
+                            </>
                         ))
+
 				}
 					
 

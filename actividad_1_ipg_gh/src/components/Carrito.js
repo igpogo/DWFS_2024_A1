@@ -2,7 +2,7 @@ import React from 'react';
 import '../styles/CarritoStyles.css';
 import {Libro} from "../components/LibroDetails"
 import {RelatosContext} from "../context/RelatosContext";
-import {CarritoHolder} from "../hoks/CarritoHolder"
+import {useCarritoHolder,removeFromCarrito} from "../hoks/useCarritoHolder"
 import {Link} from "react-router-dom";
 
 export const Carrito = () => {
@@ -28,8 +28,8 @@ export const Carrito = () => {
 							<Link to={`/libros/compra/`}>
                 <button>Descubre los menudos detalles</button>
             </Link>
-            <button className = "carrito-quita" onClick = {(libro)=> useCarrito(libro,"remove")}>Desecha este tomo</button>
-            
+            <button className = "carrito-quita" onClick = {()=> removeFromCarrito({libro})}>Desecha este tomo</button>
+            <link>
 					)
 					< compraCarritoButton />
 
